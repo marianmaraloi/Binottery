@@ -1,0 +1,13 @@
+C:\Users\marian.maraloi\Desktop\Binottery\Binottery\bin\Debug\netcoreapp3.1\Binottery.exe
+C:\Users\marian.maraloi\Desktop\Binottery\Binottery\bin\Debug\netcoreapp3.1\Binottery.deps.json
+C:\Users\marian.maraloi\Desktop\Binottery\Binottery\bin\Debug\netcoreapp3.1\Binottery.runtimeconfig.json
+C:\Users\marian.maraloi\Desktop\Binottery\Binottery\bin\Debug\netcoreapp3.1\Binottery.runtimeconfig.dev.json
+C:\Users\marian.maraloi\Desktop\Binottery\Binottery\bin\Debug\netcoreapp3.1\Binottery.dll
+C:\Users\marian.maraloi\Desktop\Binottery\Binottery\bin\Debug\netcoreapp3.1\Binottery.pdb
+C:\Users\marian.maraloi\Desktop\Binottery\Binottery\obj\Debug\netcoreapp3.1\Binottery.csprojAssemblyReference.cache
+C:\Users\marian.maraloi\Desktop\Binottery\Binottery\obj\Debug\netcoreapp3.1\Binottery.AssemblyInfoInputs.cache
+C:\Users\marian.maraloi\Desktop\Binottery\Binottery\obj\Debug\netcoreapp3.1\Binottery.AssemblyInfo.cs
+C:\Users\marian.maraloi\Desktop\Binottery\Binottery\obj\Debug\netcoreapp3.1\Binottery.csproj.CoreCompileInputs.cache
+C:\Users\marian.maraloi\Desktop\Binottery\Binottery\obj\Debug\netcoreapp3.1\Binottery.dll
+C:\Users\marian.maraloi\Desktop\Binottery\Binottery\obj\Debug\netcoreapp3.1\Binottery.pdb
+C:\Users\marian.maraloi\Desktop\Binottery\Binottery\obj\Debug\netcoreapp3.1\Binottery.genruntimeconfig.cache

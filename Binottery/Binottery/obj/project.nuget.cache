@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pp3CKEW2yBlCTE3zNLUmOnQsy6u32opX9+e2esGNg41uHATqnDZZJ1GZeMQ4J3qqs3f3pZLPAWfGXdaYpn1CwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marian.maraloi\\Desktop\\Binottery\\Binottery\\Binottery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marian.maraloi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
